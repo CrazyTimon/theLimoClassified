@@ -517,3 +517,12 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f3f3f3', endColorstr='#dbdbdb',GradientType=0 ); /* IE6-8 */
     border-bottom: 1px solid #747474;
 }
+
+.referal_red{
+    color: #ec0300;
+    text-decoration: none;
+}
+
+.txt_center{
+    text-align: center;
+}
